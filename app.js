@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const axios = require("axios")
 const prompts = require("prompts")
 const Configstore = require("configstore")
