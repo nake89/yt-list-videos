@@ -16,8 +16,8 @@
   "bin": "./app.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.23.0",
-    "commander": "^7.2.0",
+    "axios": "^0.24.0",
+    "commander": "^8.3.0",
     "configstore": "^6.0.0",
     "prompts": "^2.4.2"
   }
